@@ -13,14 +13,6 @@
         <mxCell id="cpxWBVDladI01jByWYwd-284" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;container=0;" vertex="1" parent="1">
           <mxGeometry x="869" y="379" width="750" height="279" as="geometry" />
         </mxCell>
-        <mxCell id="cpxWBVDladI01jByWYwd-357" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.891;entryY=0.57;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;exitX=0.517;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=2;" edge="1" parent="1" source="cpxWBVDladI01jByWYwd-341" target="cpxWBVDladI01jByWYwd-284">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1001" y="640" />
-              <mxPoint x="1537" y="640" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="cpxWBVDladI01jByWYwd-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="299" y="94" width="280" height="850" as="geometry" />
         </mxCell>
@@ -594,6 +586,14 @@
         </mxCell>
         <mxCell id="cpxWBVDladI01jByWYwd-397" value="Drydock Release&lt;br&gt;Process" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=10;" vertex="1" parent="cpxWBVDladI01jByWYwd-398">
           <mxGeometry x="40.5" y="95" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cpxWBVDladI01jByWYwd-357" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.891;entryY=0.57;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;exitX=0.517;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=2;" edge="1" parent="1" source="cpxWBVDladI01jByWYwd-341" target="cpxWBVDladI01jByWYwd-284">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1001" y="640" />
+              <mxPoint x="1537" y="640" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
