@@ -31,7 +31,7 @@
         <mxCell id="cpxWBVDladI01jByWYwd-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;strokeWidth=1;" edge="1" parent="cpxWBVDladI01jByWYwd-21" source="cpxWBVDladI01jByWYwd-2" target="cpxWBVDladI01jByWYwd-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cpxWBVDladI01jByWYwd-2" value="&lt;b&gt;main&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="cpxWBVDladI01jByWYwd-21">
+        <mxCell id="cpxWBVDladI01jByWYwd-2" value="&lt;b&gt;master&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="cpxWBVDladI01jByWYwd-21">
           <mxGeometry x="38" y="40" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cpxWBVDladI01jByWYwd-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="cpxWBVDladI01jByWYwd-21" source="cpxWBVDladI01jByWYwd-3" target="cpxWBVDladI01jByWYwd-2">
@@ -61,7 +61,7 @@
         <mxCell id="cpxWBVDladI01jByWYwd-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#d80073;strokeColor=#A50040;strokeWidth=2;" edge="1" parent="1" source="cpxWBVDladI01jByWYwd-11" target="cpxWBVDladI01jByWYwd-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cpxWBVDladI01jByWYwd-11" value="&lt;b&gt;main&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cpxWBVDladI01jByWYwd-11" value="&lt;b&gt;master&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="394" y="554" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cpxWBVDladI01jByWYwd-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cpxWBVDladI01jByWYwd-12" target="cpxWBVDladI01jByWYwd-11">
